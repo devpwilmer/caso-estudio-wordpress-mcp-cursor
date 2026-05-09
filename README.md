@@ -64,17 +64,7 @@ Variables recomendadas están documentadas en [`.env.example`](.env.example). M�
 
 ## Caso práctico (español)
 
-Está pensado **no solo para perfiles muy técnicos**: sirve para **marketing, contenido, negocio y SEO** que necesiten entender *qué pasó*, *a qué escala* y *cómo se resolvió* sin entrar en código hasta que quieran.
-
-**Documento principal:** [`WORDPRESS_SPAM_CLEANUP_PLAYBOOK.md`](WORDPRESS_SPAM_CLEANUP_PLAYBOOK.md). Ahí encontrarás, en orden:
-
-1. **Qué ocurrió** — explicación del ataque en lenguaje claro (sin nombrar dominios del caso).
-2. **Qué se vio en el sitio** — dónde aparecía el problema y por qué a veces no se veía en el editor.
-3. **Cuánto se analizó y corrigió** — tabla de alcance (qué partes del sitio se revisaron) y **órdenes de magnitud** (páginas tocadas, miles de enlaces maliciosos, pasadas de limpieza).
-4. **Cómo se hizo paso a paso** — checklist con scripts y Cursor + MCP para quien vaya a ejecutarlo.
-5. **Detalle técnico** — apartados para desarrolladores o SEO técnico (API, Elementor, caché).
-
----
+Documentación y pasos completos: [**WORDPRESS_SPAM_CLEANUP_PLAYBOOK.md**](WORDPRESS_SPAM_CLEANUP_PLAYBOOK.md).
 
 ### Resumen del caso (lenguaje sencillo)
 
