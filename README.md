@@ -66,7 +66,7 @@ Variables recomendadas están documentadas en [`.env.example`](.env.example). M�
 
 Documentación y pasos completos: [**WORDPRESS_SPAM_CLEANUP_PLAYBOOK.md**](WORDPRESS_SPAM_CLEANUP_PLAYBOOK.md).
 
-### Resumen del caso (lenguaje sencillo)
+### Resumen del caso
 
 - Alguien **coló enlaces no deseados** (típicamente apuestas u otros sitios de terceros) dentro de páginas públicas de WordPress; es un patrón conocido de **manipulación de enlaces** para perjudicar o lucrar a costa del sitio.
 - Esos enlaces estaban **mezclados con el contenido bueno** del sitio; a veces **casi invisibles** para el visitante pero **presentes en el código** de la página (lo que ven Google y herramientas).
